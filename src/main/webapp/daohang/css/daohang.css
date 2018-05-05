@@ -1,0 +1,18 @@
+.daohang-navbar{
+  
+}
+
+.daohang-more-content{
+  text-align: right;
+  text-decoration: underline;;
+}
+
+/*.daohang-table-layout{
+  table-layout: fixed;
+}*/
+
+.daohang-text-overflow{
+  overflow: hidden; 
+  text-overflow:ellipsis;  
+  white-space: nowrap; 
+}
